@@ -1,0 +1,41 @@
+1.http://techno.accenza.co/london2lagos/about-us  issue: e.t.c must be etc
+	
+We have created a platform that allows Nigerians to conveniently shop online with major UK brands in various categories	not limited to Fashion, Kids, Accessories, electronics, computing, home e.t.c
+
+We have created a platform that allows Nigerians to conveniently shop online with major UK brands in various categories. Albeit, not limited to Fashion, Kids, Accessories, electronics, computing, home etc
+We have also developed a simple and cost effective shipping methodology to get your items across to you cheaply as well as quickly.
+
+2.http://techno.accenza.co/london2lagos/contact-us
+on blank field validation Enter Phone and Enter Email must be replaced with Enter Phone Number & Enter Email Id.
+and change Enter first name and Enter last name to Title Case it Enter First Name & Enter Last Name.  
+
+3.http://techno.accenza.co/london2lagos/contact-us
+while submitting a message the focus is put on the send message. it must be put on the 
+"Thanks for contacting us." message
+
+4.In the pop up at the top,"Cookies need to be enabled to successfully use this site"  cross button(X) not working
+on any page except home!
+http://techno.accenza.co/london2lagos/customers/registration
+
+5.a jerk in the background page is experienced while filling the registration form in mozilla browser.
+http://techno.accenza.co/london2lagos/how-it-works
+some gramatical errors. please check
+
+
+6.http://techno.accenza.co/london2lagos/customers/forgot-password
+on password reset link page. after submission of email page scrolls down missing the sucess message. 
+
+7.on sending reset password request once you forget your password the link sent in the mail id re-directs to a page which asks for 
+current password.. but how can I ? I just forgot my passoword.
+
+8.Issue with Focus after page submit
+once the shipping details is given an the page directs to http://techno.accenza.co/london2lagos/checkouts .. focus is made at the bottom of the page. 
+
+9.Design Break in uploaded Image
+Design Break in uploaded Image: while image is uploaded using mozilla browser in http://techno.accenza.co/london2lagos/customers/dashboard The circle for the uploaded image is found to be covered by a gray strip.. refer to the image. 
+10.Issue with Focus after message submit
+on submitting a message in contact us page the focus goes to the send button instead of "Thanks for contacting us." message
+
+11.please modify the text field alert for blank validation
+change it enter phone number and enter email id.. http://techno.accenza.co/london2lagos/contact-us
+

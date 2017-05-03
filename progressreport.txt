@@ -96,4 +96,13 @@ response code:https://www.iana.org/assignments/http-status-codes/http-status-cod
 
 	
 17:14 02-05-2017
+record UI and use in jmeter.
+
 http://stage.misschase.com/ 
+09:28 03-05-2017
+
+18:27 03-05-2017
+http://techno.accenza.co/london2lagos/customers/registration
+https://gitlab.com/Accenza/
+https://accenzaweb.slack.com/messages/C577BN21E/
+https://trello.com/c/cByg8lq3/7-testify

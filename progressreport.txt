@@ -1,0 +1,99 @@
+.LOG
+
+09:48 28-04-2017
+software testing: when to start and when to stop
+10:00 28-04-2017
+Myth 1 : Testing is Too Expensive
+Reality : There is a saying, pay less for testing during software development or pay more for maintenance or correction later. Early testing saves both time and cost in many aspects, however reducing the cost without testing may result in improper design of a software application rendering the product useless.
+
+Myth 2 : Testing is Time-Consuming
+Reality : During the SDLC phases, testing is never a time-consuming process. However diagnosing and fixing the errors identified during proper testing is a time-consuming but productive activity.
+
+Myth 3 : Only Fully Developed Products are Tested
+Reality : No doubt, testing depends on the source code but reviewing requirements and developing test cases is independent from the developed code. However iterative or incremental approach as a development life cycle model may reduce the dependency of testing on the fully developed software.
+
+Myth 4 : Complete Testing is Possible
+Reality : It becomes an issue when a client or tester thinks that complete testing is possible. It is possible that all paths have been tested by the team but occurrence of complete testing is never possible. There might be some scenarios that are never executed by the test team or the client during the software development life cycle and may be executed once the project has been deployed.
+
+Myth 5 : A Tested Software is Bug-Free
+Reality : This is a very common myth that the clients, project managers, and the management team believes in. No one can claim with absolute certainty that a software application is 100% bug-free even if a tester with superb testing skills has tested the application.
+
+Myth 6 : Missed Defects are due to Testers
+Reality : It is not a correct approach to blame testers for bugs that remain in the application even after testing has been performed. This myth relates to Time, Cost, and Requirements changing Constraints. However the test strategy may also result in bugs being missed by the testing team.
+
+Myth 7 : Testers are Responsible for Quality of Product
+Reality : It is a very common misinterpretation that only testers or the testing team should be responsible for product quality. Testers’ responsibilities include the identification of bugs to the stakeholders and then it is their decision whether they will fix the bug or release the software. Releasing the software at the time puts more pressure on the testers, as they will be blamed for any error.
+
+Myth 8 : Test Automation should be used wherever possible to Reduce Time
+Reality : Yes, it is true that Test Automation reduces the testing time, but it is not possible to start test automation at any time during software development. Test automaton should be started when the software has been manually tested and is stable to some extent. Moreover, test automation can never be used if requirements keep changing.
+
+Myth 9 : Anyone can Test a Software Application
+Reality : People outside the IT industry think and even believe that anyone can test a software and testing is not a creative job. However testers know very well that this is a myth. Thinking alternative scenarios, try to crash a software with the intent to explore potential bugs is not possible for the person who developed it.
+
+Myth 10 : A Tester's only Task is to Find Bugs
+Reality : Finding bugs in a software is the task of the testers, but at the same time, they are domain experts of the particular software. Developers are only responsible for the specific component or area that is assigned to them but testers understand the overall workings of the software, what the dependencies are, and the impacts of one module on another module.
+10:29 28-04-2017
+Automation testing. why and when?
+https://www.youtube.com/watch?v=RbSlW8jZFe8
+11:05 28-04-2017
+web driver
+WebDriver also enables you to use a programming language in creating your test scripts (not possible in Selenium IDE).
+
+You can now use conditional operations like if-then-else or switch-case 
+You can also perform looping like do-while.
+Following programming languages are supported by WebDriver
+
+Java
+.Net
+PHP
+Python
+Perl
+Ruby
+http://www.guru99.com/introduction-webdriver-comparison-selenium-rc.html
+11:19 28-04-2017
+youtube tutorial by Ashish Thakur on webdriver
+https://www.youtube.com/watch?v=wzkS_tgvK7w
+
+
+15:21 28-04-2017
+youtube tutorial on jmeter
+https://www.youtube.com/watch?v=JFDcgKQ8VFw
+
+
+15:29 28-04-2017
+https://www.youtube.com/watch?v=F-VRDitMR0I
+scroll navigation
+16:46 28-04-2017
+
+17:43 28-04-2017
+test the input box for different cases. 
+submit with input
+submit without input
+submiting with only some fields filled. 
+
+
+09:40 02-05-2017
+learning about webdrivers.
+https://www.youtube.com/watch?v=6hf5AWdaizM&index=5&list=PL6flErFppaj2ArNxLyR4nQ4JV8qFc56-M
+
+10:45
+Heading with Jmeter Tutorials
+https://www.youtube.com/watch?v=8loLHbhfyh0&list=PLhW3qG5bs-L-zox1h3eIL7CZh5zJmci4c&index=2
+
+working with jmeter.
+	rename your test plan
+	add a tread group(name as Users)
+	Add a sampler(Http Request)
+	add a listener by clicking on the users thread.(add->listner->view result in table)
+Assertions
+	duration assertion
+	size assertion
+	html assertion
+	xml assertion
+	xpath assertion
+response code:https://www.iana.org/assignments/http-status-codes/http-status-codes.xhtml
+
+
+	
+17:14 02-05-2017
+http://stage.misschase.com/ 
